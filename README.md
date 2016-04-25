@@ -1,7 +1,7 @@
-## LapLab
+# LapLab
 A repository for LAP assignment purpose only
 
-#Factorial of negative numbers fixed -- factorial of absolute value is returned
+Factorial of negative numbers fixed -- factorial of absolute value is returned
 
 Team members:
 
